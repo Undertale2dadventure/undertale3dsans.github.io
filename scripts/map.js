@@ -1,1 +1,1 @@
-<script src="world.obj"<script>
+<script src="scripts/map/world.obj"<script>
