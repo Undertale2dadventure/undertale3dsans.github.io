@@ -1,3 +1,3 @@
-<script src="sky.png"<script>
+<script src="sky/sky.png"<script>
 shape="circle"
 texture="hollow"
